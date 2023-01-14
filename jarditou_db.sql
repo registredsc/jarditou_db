@@ -83,8 +83,5 @@ VALUES
 
 INSERT INTO account (id_client, nom, prenom, email, ville, cp)
 VALUES
-(1, 'Malacié Esnault', 'Luca', 'luca.malacie@gmail.com', 'pontpoint', 60700),
-(2, 'Malacié Esnault', 'Klemen', 'klemen.malacie@gmail.com', 'pontpoint', 60700),
-(3, 'Malacié Esnault', 'Isabelle', 'isabelle.malacie@gmail.com', 'pontpoint', 60700),
-(4, 'Adnet', 'Charles', 'mrayerifick@gmail.com', 'pontpoint', 60700),
-(5, 'Discord', 'Registre', 'registrecontact@gmail.com', 'pontpoint', 60700);
+(1, 'Malacié Esnault', 'Luca', 'registrecontact@gmail.com', 'pontpoint', 60700),
+(2, 'Discord', 'Registre', 'registrecontact@gmail.com', 'pontpoint', 60700);
